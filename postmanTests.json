@@ -1,0 +1,95 @@
+{
+  "info": {
+    "name": "RatmonAPI Test Collection",
+    "_postman_id": "123e4567-e89b-12d3-a456-426614174000",
+    "description": "Zestaw testów dla API urządzeń i pomiarów",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Create Device - Mas2",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer <TOKEN>" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"id\": \"c3096497-4db1-43a0-8d93-90646d6201dd\",\n  \"name\": \"Device A\",\n  \"type\": \"Mas2\",\n  \"configuration\": {\"setting1\":10,\"setting2\":true}\n}"
+        },
+        "url": { "raw": "{{baseUrl}}/api/devices", "host": ["{{baseUrl}}"], "path": ["api","devices"] }
+      }
+    },
+    {
+      "name": "Create Device - Mouse2",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer <TOKEN>" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"id\": \"d7f7a3e0-5b4b-4f2a-bb8d-123456789abc\",\n  \"name\": \"Device B\",\n  \"type\": \"Mouse2\",\n  \"configuration\": {\"setting1\":20,\"setting2\":false}\n}"
+        },
+        "url": { "raw": "{{baseUrl}}/api/devices", "host": ["{{baseUrl}}"], "path": ["api","devices"] }
+      }
+    },
+    {
+      "name": "Add Measurement - Mas2 valid",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer <TOKEN>" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"temperature\": 22.5,\n  \"humidity\": 45.0\n}"
+        },
+        "url": { "raw": "{{baseUrl}}/api/devices/c3096497-4db1-43a0-8d93-90646d6201dd/measurements", "host": ["{{baseUrl}}"], "path": ["api","devices","c3096497-4db1-43a0-8d93-90646d6201dd","measurements"] }
+      }
+    },
+    {
+      "name": "Add Measurement - Mas2 invalid (Mouse2 JSON)",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer <TOKEN>" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"voltage\": 12.5,\n  \"resistance\": 100.0\n}"
+        },
+        "url": { "raw": "{{baseUrl}}/api/devices/c3096497-4db1-43a0-8d93-90646d6201dd/measurements", "host": ["{{baseUrl}}"], "path": ["api","devices","c3096497-4db1-43a0-8d93-90646d6201dd","measurements"] }
+      }
+    },
+    {
+      "name": "Add Measurement - MouseCombo valid",
+      "request": {
+        "method": "POST",
+        "header": [
+          { "key": "Content-Type", "value": "application/json" },
+          { "key": "Authorization", "value": "Bearer <TOKEN>" }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"voltage\": 5.5,\n  \"resistance\": 10.2,\n  \"reflectograms\": [\n    { \"serialNumber\": 1, \"data\": [0,1,2] },\n    { \"serialNumber\": 2, \"data\": [3,4,5] }\n  ]\n}"
+        },
+        "url": { "raw": "{{baseUrl}}/api/devices/abcdef12-3456-7890-abcd-1234567890ef/measurements", "host": ["{{baseUrl}}"], "path": ["api","devices","abcdef12-3456-7890-abcd-1234567890ef","measurements"] }
+      }
+    },
+    {
+      "name": "Get Measurements - Mas2",
+      "request": {
+        "method": "GET",
+        "header": [
+          { "key": "Authorization", "value": "Bearer <TOKEN>" }
+        ],
+        "url": { "raw": "{{baseUrl}}/api/devices/c3096497-4db1-43a0-8d93-90646d6201dd/measurements?from=2025-09-09T23:00:00Z&to=2025-09-10T00:00:00Z", "host": ["{{baseUrl}}"], "path": ["api","devices","c3096497-4db1-43a0-8d93-90646d6201dd","measurements"], "query":[{"key":"from","value":"2025-09-09T23:00:00Z"},{"key":"to","value":"2025-09-10T00:00:00Z"}]}
+      }
+    }
+  ]
+}

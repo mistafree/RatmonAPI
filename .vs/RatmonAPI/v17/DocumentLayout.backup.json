@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\controllers\\measurementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\controllers\\measurementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\services\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\services\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\services\\imeasurementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\services\\imeasurementservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\controllers\\devicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\domain\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\domain\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\services\\deviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\domain\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\domain\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\domain\\deviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\domain\\deviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|c:\\users\\szef\\source\\repos\\ratmonapi\\ratmonapi\\services\\ideviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03B85AB1-0EF9-40F6-A1AC-A8A605F94B25}|RatmonAPI\\RatmonAPI.csproj|solutionrelative:ratmonapi\\services\\ideviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "RatmonAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\appsettings.json",
+              "RelativeToolTip": "RatmonAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T21:29:11.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RatmonAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:36:16.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Program.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Program.cs",
+              "RelativeToolTip": "RatmonAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:28:29.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeasurementsController.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Controllers\\MeasurementsController.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Controllers\\MeasurementsController.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Controllers\\MeasurementsController.cs",
+              "RelativeToolTip": "RatmonAPI\\Controllers\\MeasurementsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswDkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:27:41.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DevicesController.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Controllers\\DevicesController.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Controllers\\DevicesController.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Controllers\\DevicesController.cs",
+              "RelativeToolTip": "RatmonAPI\\Controllers\\DevicesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:25:47.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeasurementService.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Services\\MeasurementService.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Services\\MeasurementService.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Services\\MeasurementService.cs",
+              "RelativeToolTip": "RatmonAPI\\Services\\MeasurementService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:24:52.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMeasurementServices.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Services\\IMeasurementServices.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Services\\IMeasurementServices.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Services\\IMeasurementServices.cs",
+              "RelativeToolTip": "RatmonAPI\\Services\\IMeasurementServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:22:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Services\\DeviceService.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Services\\DeviceService.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Services\\DeviceService.cs",
+              "RelativeToolTip": "RatmonAPI\\Services\\DeviceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:23:23.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDeviceServices.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Services\\IDeviceServices.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Services\\IDeviceServices.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Services\\IDeviceServices.cs",
+              "RelativeToolTip": "RatmonAPI\\Services\\IDeviceServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:21:13.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RatmonAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:18:32.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Measurement.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Domain\\Measurement.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Domain\\Measurement.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Domain\\Measurement.cs",
+              "RelativeToolTip": "RatmonAPI\\Domain\\Measurement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:17:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeviceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Domain\\DeviceConfiguration.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Domain\\DeviceConfiguration.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Domain\\DeviceConfiguration.cs",
+              "RelativeToolTip": "RatmonAPI\\Domain\\DeviceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:15:54.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Domain\\Device.cs",
+              "RelativeDocumentMoniker": "RatmonAPI\\Domain\\Device.cs",
+              "ToolTip": "C:\\Users\\SZEF\\source\\repos\\RatmonAPI\\RatmonAPI\\Domain\\Device.cs",
+              "RelativeToolTip": "RatmonAPI\\Domain\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T19:14:56.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
